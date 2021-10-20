@@ -7,6 +7,14 @@ I am interested in a number of different fields including: Control systems, Comp
 
 ### Papers at Peer-Reviewed Conferences/Symposia
 
+- “Learning  the  Subsystem  of  Local  Planning  for  Autonomous  Racing”  
+B Evans, HA Engelbrecht \& HW Jordaan, 20th International Conference on Advanced Robotics (ICAR), Ljubljana Slovenia, 6-10 December 2021. [Accepted]
+- “Reward Signal Design for Autonomous Racing”  
+B Evans, HA Engelbrecht \& HW Jordaan, 20th International Conference on Advanced Robotics (ICAR), Ljubljana Slovenia, 6-10 December 2021. [Accepted]
+- “Data-Driven System Identification and Model Predictive Control of a Multirotor with an Unknown Suspended Payload”  
+JK Louw \& HW Jordaan, 2021 Control Conference Africa, Magaliesburg South Africa, 7-8 December 2021. [Accepted]
+- “Vision-Based Control of an Unknown Suspended Payload with a Multirotor”  
+JF Slabber \& HW Jordaan, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021), Prague Czech Republic, 27 September - 1 October 2021.
 - “Robust Adaptive Control of a Multirotor with an Unknown Suspended Payload”  
 AP Erasmus & HW Jordaan, 21st IFAC World Congress, Berlin Germany, 12-17 July 2020.
 - “Training Neural Networks for Plant Estimation, Control and Disturbance Rejection”  
